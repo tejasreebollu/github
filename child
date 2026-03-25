@@ -2,4 +2,5 @@
 ######
 ec2 instances
 echo " ec2 describe instance "
-
+modified 
+then merge
